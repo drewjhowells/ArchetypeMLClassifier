@@ -1,0 +1,4782 @@
+[
+  {
+    "url": "https://melee.gg/Decklist/View/ce852b4d-cd32-4ed9-ac81-b3b2013503dd",
+    "record": "1-3-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Belle - Accomplished Mystic",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Vision of the Future",
+        "quantity": 4
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 3
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 3
+      },
+      {
+        "card": "Into the Unknown",
+        "quantity": 3
+      },
+      {
+        "card": "Basil - Practiced Detective",
+        "quantity": 2
+      },
+      {
+        "card": "Can't Hold It Back Anymore",
+        "quantity": 2
+      },
+      {
+        "card": "Hypnotic Strength",
+        "quantity": 2
+      },
+      {
+        "card": "Kida - Creative Thinker",
+        "quantity": 2
+      },
+      {
+        "card": "Madam Mim - Elephant",
+        "quantity": 2
+      },
+      {
+        "card": "Magical Maneuvers",
+        "quantity": 2
+      },
+      {
+        "card": "Monstro - Infamous Whale",
+        "quantity": 2
+      },
+      {
+        "card": "Olaf - Helping Hand",
+        "quantity": 2
+      },
+      {
+        "card": "Second Star To The Right",
+        "quantity": 2
+      },
+      {
+        "card": "One Jump Ahead",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/a47f47c3-b9d7-43f3-a3ed-b3b200841b34",
+    "record": "1-3-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Basil - Practiced Detective",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "Junior Woodchuck Guidebook",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Sail the Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Belle - Accomplished Mystic",
+        "quantity": 3
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 3
+      },
+      {
+        "card": "Into the Unknown",
+        "quantity": 3
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 3
+      },
+      {
+        "card": "Iago - Giant Spectral Parrot",
+        "quantity": 3
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 2
+      },
+      {
+        "card": "Hypnotic Strength",
+        "quantity": 2
+      },
+      {
+        "card": "Royal Guard - Octopus Soldier",
+        "quantity": 2
+      },
+      {
+        "card": "Madam Mim - Elephant",
+        "quantity": 2
+      },
+      {
+        "card": "Magical Maneuvers",
+        "quantity": 2
+      },
+      {
+        "card": "Wasabi - Methodical Engineer",
+        "quantity": 2
+      },
+      {
+        "card": "One Jump Ahead",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/76826625-ee9e-40f5-8ff8-b3b2013141f6",
+    "record": "3-1-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 4
+      },
+      {
+        "card": "Diablo - Watchful Raven",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Palace Guard - Spectral Sentry",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 4
+      },
+      {
+        "card": "Tinker Bell - Fancy Footwork",
+        "quantity": 4
+      },
+      {
+        "card": "Lumiere - Fiery Friend",
+        "quantity": 4
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 3
+      },
+      {
+        "card": "The Headless Horseman - Terror of Sleepy Hollow",
+        "quantity": 3
+      },
+      {
+        "card": "Magical Maneuvers",
+        "quantity": 3
+      },
+      {
+        "card": "Sisu - Emboldened Warrior",
+        "quantity": 3
+      },
+      {
+        "card": "Aladdin - Barreling Through",
+        "quantity": 2
+      },
+      {
+        "card": "Demona - Betrayer of the Clan",
+        "quantity": 2
+      },
+      {
+        "card": "Iago - Giant Spectral Parrot",
+        "quantity": 2
+      },
+      {
+        "card": "Olaf - Helping Hand",
+        "quantity": 2
+      },
+      {
+        "card": "Ursula - Whisper of Vanessa",
+        "quantity": 2
+      },
+      {
+        "card": "Hercules - Mighty Leader",
+        "quantity": 1
+      },
+      {
+        "card": "Vanellope Von Schweetz - Spunky Speedster",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/5cc84ce2-75ef-4a1f-9f80-b3b2013892e3",
+    "record": "4-0-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Aurora - Holding Court",
+        "quantity": 4
+      },
+      {
+        "card": "Daisy Duck - Donald's Date",
+        "quantity": 4
+      },
+      {
+        "card": "Eilonwy - Princess of Llyr",
+        "quantity": 4
+      },
+      {
+        "card": "Lady - Family Dog",
+        "quantity": 4
+      },
+      {
+        "card": "Mickey Mouse - Amber Champion",
+        "quantity": 4
+      },
+      {
+        "card": "Mowgli - Man Cub",
+        "quantity": 4
+      },
+      {
+        "card": "Nala - Undaunted Lioness",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Pluto - Friendly Pooch",
+        "quantity": 4
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 4
+      },
+      {
+        "card": "Rapunzel - Ready for Adventure",
+        "quantity": 4
+      },
+      {
+        "card": "Rajah - Devoted Protector",
+        "quantity": 4
+      },
+      {
+        "card": "Tiana - Restaurant Owner",
+        "quantity": 4
+      },
+      {
+        "card": "Fire the Cannons!",
+        "quantity": 3
+      },
+      {
+        "card": "Pete - Games Referee",
+        "quantity": 3
+      },
+      {
+        "card": "Jim Dear - Beloved Husband",
+        "quantity": 2
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/5a7904f4-a0e6-4a24-ae62-b3b20110c028",
+    "record": "2-2-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Captain Hook - Forceful Duelist",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Giant Cobra - Ghostly Serpent",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 4
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Calhoun - Marine Sergeant",
+        "quantity": 3
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 3
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 3
+      },
+      {
+        "card": "Jafar - Royal Vizier",
+        "quantity": 3
+      },
+      {
+        "card": "Olaf - Helping Hand",
+        "quantity": 3
+      },
+      {
+        "card": "Palace Guard - Spectral Sentry",
+        "quantity": 3
+      },
+      {
+        "card": "Pete - Games Referee",
+        "quantity": 3
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 2
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 2
+      },
+      {
+        "card": "Pluto - Steel Champion",
+        "quantity": 2
+      },
+      {
+        "card": "Madam Mim - Tiny Adversary",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/54dffd7a-637c-4d4e-a63c-b3b201189159",
+    "record": "1-3-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 4
+      },
+      {
+        "card": "Sisu - Emboldened Warrior",
+        "quantity": 4
+      },
+      {
+        "card": "Aladdin - Barreling Through",
+        "quantity": 3
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 3
+      },
+      {
+        "card": "The Library - A Gift for Belle",
+        "quantity": 3
+      },
+      {
+        "card": "Tinker Bell - Fancy Footwork",
+        "quantity": 3
+      },
+      {
+        "card": "The Headless Horseman - Terror of Sleepy Hollow",
+        "quantity": 3
+      },
+      {
+        "card": "Lumiere - Fiery Friend",
+        "quantity": 3
+      },
+      {
+        "card": "Shere Khan - Keen-Eyed Hunter",
+        "quantity": 3
+      },
+      {
+        "card": "Belle - Accomplished Mystic",
+        "quantity": 2
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 2
+      },
+      {
+        "card": "Diablo - Watchful Raven",
+        "quantity": 2
+      },
+      {
+        "card": "Diablo - Obedient Raven",
+        "quantity": 2
+      },
+      {
+        "card": "Goofy - Flying Goof",
+        "quantity": 2
+      },
+      {
+        "card": "Palace Guard - Spectral Sentry",
+        "quantity": 2
+      },
+      {
+        "card": "Magical Maneuvers",
+        "quantity": 2
+      },
+      {
+        "card": "Ursula - Whisper of Vanessa",
+        "quantity": 2
+      },
+      {
+        "card": "Moana - Island Explorer",
+        "quantity": 2
+      },
+      {
+        "card": "Hades - Ruthless Tyrant",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/446b2b4a-ff7f-4a8e-896e-b3b201207db8",
+    "record": "3-1-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Clawhauser - Donut Detective",
+        "quantity": 4
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 4
+      },
+      {
+        "card": "Goliath - Clan Leader",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "Jasmine - Resourceful Infiltrator",
+        "quantity": 4
+      },
+      {
+        "card": "Jasmine - Steady Strategist",
+        "quantity": 4
+      },
+      {
+        "card": "Tinker Bell - Giant Fairy",
+        "quantity": 4
+      },
+      {
+        "card": "Pleakley - Scientific Expert",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Vincenzo Santorini - The Explosives Expert",
+        "quantity": 4
+      },
+      {
+        "card": "Atitaya - Fang General",
+        "quantity": 3
+      },
+      {
+        "card": "Cinderella - Dream Come True",
+        "quantity": 3
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 3
+      },
+      {
+        "card": "Pluto - Steel Champion",
+        "quantity": 3
+      },
+      {
+        "card": "Sail the Azurite Sea",
+        "quantity": 3
+      },
+      {
+        "card": "Inkrunner",
+        "quantity": 2
+      },
+      {
+        "card": "Sudden Scare",
+        "quantity": 2
+      },
+      {
+        "card": "Jasmine - Heir of Agrabah",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/1bc762a1-dd3b-4f70-9d1d-b3b20126a578",
+    "record": "2-2-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Basil - Practiced Detective",
+        "quantity": 4
+      },
+      {
+        "card": "Into the Unknown",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "Junior Woodchuck Guidebook",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Sail the Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 3
+      },
+      {
+        "card": "Hypnotic Strength",
+        "quantity": 3
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 3
+      },
+      {
+        "card": "Iago - Giant Spectral Parrot",
+        "quantity": 3
+      },
+      {
+        "card": "Rafiki - Mystical Fighter",
+        "quantity": 3
+      },
+      {
+        "card": "Belle - Accomplished Mystic",
+        "quantity": 2
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 2
+      },
+      {
+        "card": "Madam Mim - Elephant",
+        "quantity": 2
+      },
+      {
+        "card": "Tick-Tock - Ever-Present Pursuer",
+        "quantity": 2
+      },
+      {
+        "card": "Second Star to the Right",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/18a11ddd-28db-4eb7-b8e3-b3ae0177ddea",
+    "record": "1-3-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Tinker Bell - Giant Fairy",
+        "quantity": 4
+      },
+      {
+        "card": "The Horseman Strikes!",
+        "quantity": 4
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 4
+      },
+      {
+        "card": "Rhino - Power Hamster",
+        "quantity": 4
+      },
+      {
+        "card": "Rhino - One-Sixteenth Wolf",
+        "quantity": 4
+      },
+      {
+        "card": "Simba - King in the Making",
+        "quantity": 4
+      },
+      {
+        "card": "Stitch - Carefree Surfer",
+        "quantity": 4
+      },
+      {
+        "card": "Vincenzo Santorini - The Explosives Expert",
+        "quantity": 4
+      },
+      {
+        "card": "Bagheera - Guardian Jaguar",
+        "quantity": 3
+      },
+      {
+        "card": "Broadway - Sturdy and Strong",
+        "quantity": 3
+      },
+      {
+        "card": "Lantern",
+        "quantity": 3
+      },
+      {
+        "card": "Pluto - Friendly Pooch",
+        "quantity": 3
+      },
+      {
+        "card": "Bolt - Down but Not Out",
+        "quantity": 3
+      },
+      {
+        "card": "Goliath - Clan Leader",
+        "quantity": 2
+      },
+      {
+        "card": "Scar - Finally King",
+        "quantity": 2
+      },
+      {
+        "card": "Pluto - Determined Defender",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/0f3c84dd-42b3-468d-8ffa-b3b2012c0951",
+    "record": "2-2-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Black Heron - Real Bad Egg",
+        "quantity": 4
+      },
+      {
+        "card": "Cursed Merfolk - Ursula's Handiwork",
+        "quantity": 4
+      },
+      {
+        "card": "Donald Duck - Perfect Gentleman",
+        "quantity": 4
+      },
+      {
+        "card": "Emily Quackfaster - Level-Headed Librarian",
+        "quantity": 4
+      },
+      {
+        "card": "Flynn Rider - Spectral Scoundrel",
+        "quantity": 4
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 4
+      },
+      {
+        "card": "Pete - Games Referee",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "The Headless Horseman - Relentless Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 3
+      },
+      {
+        "card": "Emerald Chromicon",
+        "quantity": 3
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 3
+      },
+      {
+        "card": "Prince Phillip - Royal Explorer",
+        "quantity": 3
+      },
+      {
+        "card": "Blessed Bagpipes",
+        "quantity": 2
+      },
+      {
+        "card": "Bobby Zimuruski - Spray Cheese Kid",
+        "quantity": 2
+      },
+      {
+        "card": "Heihei - Bumbling Rooster",
+        "quantity": 2
+      },
+      {
+        "card": "Robin Hood - Champion of Sherwood",
+        "quantity": 2
+      },
+      {
+        "card": "Calhoun - Marine Sergeant",
+        "quantity": 1
+      },
+      {
+        "card": "Go Go Tomago - Darting Dynamo",
+        "quantity": 1
+      },
+      {
+        "card": "Jock - Attentive Uncle",
+        "quantity": 1
+      },
+      {
+        "card": "Prince Phillip - Vanquisher of Foes",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/fe99c947-1140-4c03-b488-b3b200149059",
+    "record": "2-1-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Basil - Practiced Detective",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 4
+      },
+      {
+        "card": "Iago - Giant Spectral Parrot",
+        "quantity": 4
+      },
+      {
+        "card": "Into the Unknown",
+        "quantity": 4
+      },
+      {
+        "card": "Junior Woodchuck Guidebook",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Belle - Accomplished Mystic",
+        "quantity": 3
+      },
+      {
+        "card": "Hypnotic Strength",
+        "quantity": 3
+      },
+      {
+        "card": "Rafiki - Mystical Fighter",
+        "quantity": 3
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 2
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 2
+      },
+      {
+        "card": "Monstro - Infamous Whale",
+        "quantity": 2
+      },
+      {
+        "card": "Madam Mim - Elephant",
+        "quantity": 1
+      },
+      {
+        "card": "One Jump Ahead",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/fd1c38ae-f418-4f65-850d-b3b200fb3aed",
+    "record": "1-3-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Basil - Undercover Detective",
+        "quantity": 4
+      },
+      {
+        "card": "Cinderella - Dream Come True",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Clumsy Guest",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Contented Wallflower",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Light on Her Hooves",
+        "quantity": 4
+      },
+      {
+        "card": "Develop Your Brain",
+        "quantity": 4
+      },
+      {
+        "card": "Donald Duck - Perfect Gentleman",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "John Silver - Alien Pirate",
+        "quantity": 4
+      },
+      {
+        "card": "Malicious, Mean, and Scary",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Vanquisher of Foes",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "You're Welcome",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Royal Explorer",
+        "quantity": 3
+      },
+      {
+        "card": "Vision of the Future",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/f8895eb3-9235-45a9-bf9c-b3b200e84e61",
+    "record": "6-0-2",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Captain Hook / Forceful Duelist",
+        "quantity": 4
+      },
+      {
+        "card": "Demona / Scourge of the Wyvern Clan",
+        "quantity": 4
+      },
+      {
+        "card": "Diablo / Obedient Raven",
+        "quantity": 4
+      },
+      {
+        "card": "Doc / Bold Knight",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo / Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa / Exploring the Unknown",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa / The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie / Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Giant Cobra / Ghostly Serpent",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Belle / Accomplished Mystic",
+        "quantity": 3
+      },
+      {
+        "card": "Black Heron / Real Bad Egg",
+        "quantity": 3
+      },
+      {
+        "card": "Hades / Looking for a Deal",
+        "quantity": 3
+      },
+      {
+        "card": "Lexington / Small in Stature",
+        "quantity": 3
+      },
+      {
+        "card": "Pete / Games Referee",
+        "quantity": 3
+      },
+      {
+        "card": "Palace Guard / Spectral Sentry",
+        "quantity": 2
+      },
+      {
+        "card": "Cheshire Cat / Inexplicable",
+        "quantity": 1
+      },
+      {
+        "card": "Demona / Betrayer of the Clan",
+        "quantity": 1
+      },
+      {
+        "card": "Mr. Smee /Steadfast Mate",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/e915ba42-2a24-49b5-9928-b3b2001bb71b",
+    "record": "3-0-1",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Ariel - Sonic Warrior",
+        "quantity": 4
+      },
+      {
+        "card": "Captain Hook - Forceful Duelist",
+        "quantity": 4
+      },
+      {
+        "card": "Cinderella - Dream Come True",
+        "quantity": 4
+      },
+      {
+        "card": "Develop Your Brain",
+        "quantity": 4
+      },
+      {
+        "card": "Goliath - Clan Leader",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 4
+      },
+      {
+        "card": "Namaari - Single-Minded Rival",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Tinker Bell - Giant Fairy",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Vincenzo Santorini - The Explosives Expert",
+        "quantity": 4
+      },
+      {
+        "card": "Beyond the Horizon",
+        "quantity": 2
+      },
+      {
+        "card": "Jasmine - Fearless Princess",
+        "quantity": 2
+      },
+      {
+        "card": "One Jump Ahead",
+        "quantity": 2
+      },
+      {
+        "card": "Vision of the Future",
+        "quantity": 2
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/dcf2f1c9-538b-435e-9585-b3b200ea9b77",
+    "record": "3-2-1",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Basil - Practiced Detective",
+        "quantity": 4
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 4
+      },
+      {
+        "card": "Into the Unknown",
+        "quantity": 4
+      },
+      {
+        "card": "Junior Woodchuck Guidebook",
+        "quantity": 4
+      },
+      {
+        "card": "Rafiki - Mystical Fighter",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Hypnotic Strength",
+        "quantity": 3
+      },
+      {
+        "card": "Iago - Giant Spectral Parrot",
+        "quantity": 3
+      },
+      {
+        "card": "Belle - Accomplished Mystic",
+        "quantity": 2
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 2
+      },
+      {
+        "card": "Madam Mim - Elephant",
+        "quantity": 2
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/d9a3d01a-5c56-4977-9f8d-b3b200cf10d6",
+    "record": "4-3-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Cinderella - Dream Come True",
+        "quantity": 4
+      },
+      {
+        "card": "Develop Your Brain",
+        "quantity": 4
+      },
+      {
+        "card": "Goliath - Clan Leader",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 4
+      },
+      {
+        "card": "Namaari - Single-Minded Rival",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Tinker Bell - Giant Fairy",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Vincenzo Santorini - The Explosives Expert",
+        "quantity": 4
+      },
+      {
+        "card": "Mulan - Disguised Soldier",
+        "quantity": 3
+      },
+      {
+        "card": "The Headless Horseman - Cursed Rider",
+        "quantity": 3
+      },
+      {
+        "card": "Vision of the Future",
+        "quantity": 3
+      },
+      {
+        "card": "Beyond the Horizon",
+        "quantity": 2
+      },
+      {
+        "card": "Inkrunner",
+        "quantity": 2
+      },
+      {
+        "card": "Kida - Creative Thinker",
+        "quantity": 2
+      },
+      {
+        "card": "Scuttle - Birdbrained",
+        "quantity": 2
+      },
+      {
+        "card": "Spooky Sight",
+        "quantity": 2
+      },
+      {
+        "card": "Arthur - King Victorious",
+        "quantity": 1
+      },
+      {
+        "card": "One Jump Ahead",
+        "quantity": 1
+      },
+      {
+        "card": "The Sword of Hercules",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/d0aac4fa-7c68-475d-bd04-b3b200b7125d",
+    "record": "3-1-2",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Develop Your Brain",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 4
+      },
+      {
+        "card": "Hypnotic Strength",
+        "quantity": 4
+      },
+      {
+        "card": "Iago - Giant Spectral Parrot",
+        "quantity": 4
+      },
+      {
+        "card": "Into The Unknown",
+        "quantity": 4
+      },
+      {
+        "card": "Madam Mim - Elephant",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Basil - Practiced Detective",
+        "quantity": 3
+      },
+      {
+        "card": "Royal Guard - Octopus Soldier",
+        "quantity": 3
+      },
+      {
+        "card": "Belle - Accomplished Mystic",
+        "quantity": 2
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 2
+      },
+      {
+        "card": "Sudden Scare",
+        "quantity": 2
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/c007a7c5-3a48-4bcb-aea4-b3b200f1a93a",
+    "record": "4-3-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Cinderella - Dream Come True",
+        "quantity": 4
+      },
+      {
+        "card": "Develop Your Brain",
+        "quantity": 4
+      },
+      {
+        "card": "Goliath - Clan Leader",
+        "quantity": 4
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 4
+      },
+      {
+        "card": "Mulan - Disguised Soldier",
+        "quantity": 4
+      },
+      {
+        "card": "Namaari - Single-Minded Rival",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Tinker Bell - Giant Fairy",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Vincenzo Santorini - The Explosives Expert",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 3
+      },
+      {
+        "card": "The Headless Horseman - Cursed Rider",
+        "quantity": 3
+      },
+      {
+        "card": "Vision of the Future",
+        "quantity": 3
+      },
+      {
+        "card": "Inkrunner",
+        "quantity": 2
+      },
+      {
+        "card": "Kida - Creative Thinker",
+        "quantity": 2
+      },
+      {
+        "card": "Spooky Sight",
+        "quantity": 2
+      },
+      {
+        "card": "Beyond the Horizon",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/ac44cb55-5fba-4772-97d8-b3b200fc2aa1",
+    "record": "1-3-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Basil - Undercover Detective",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Clumsy Guest",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Light on Her Hooves",
+        "quantity": 4
+      },
+      {
+        "card": "Judy Hopps - Uncovering Clues",
+        "quantity": 4
+      },
+      {
+        "card": "Malicious, Mean, and Scary",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Vanquisher of Foes",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Vision of the Future",
+        "quantity": 4
+      },
+      {
+        "card": "You're Welcome",
+        "quantity": 4
+      },
+      {
+        "card": "Basil - Practiced Detective",
+        "quantity": 3
+      },
+      {
+        "card": "Donald Duck - Focused Flatfoot",
+        "quantity": 3
+      },
+      {
+        "card": "Prince Phillip - Royal Explorer",
+        "quantity": 3
+      },
+      {
+        "card": "Basil - Disguised Detective",
+        "quantity": 2
+      },
+      {
+        "card": "Dawson - Puzzling Sleuth",
+        "quantity": 2
+      },
+      {
+        "card": "Donald Duck - Perfect Gentleman",
+        "quantity": 2
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 2
+      },
+      {
+        "card": "Mickey Mouse - Detective",
+        "quantity": 2
+      },
+      {
+        "card": "Under The Sea",
+        "quantity": 2
+      },
+      {
+        "card": "Bend To My Will",
+        "quantity": 1
+      },
+      {
+        "card": "Prince Phillip - Swordsman of the Realm",
+        "quantity": 1
+      },
+      {
+        "card": "Robin Hood - Timely Contestant",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/9c2b1d50-919b-4b69-8ff1-b3b200e569a6",
+    "record": "1-3-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Basil/Undercover Detective",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle/Clumsy Guest",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle/Light on Her Hooves",
+        "quantity": 4
+      },
+      {
+        "card": "Malicious, Mean, And Scary",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip/ Royals Explorer",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip/Vanquisher of Foes",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo/Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Vision Of The Future",
+        "quantity": 4
+      },
+      {
+        "card": "Webby Vanderquack/Junior Prospector",
+        "quantity": 4
+      },
+      {
+        "card": "Webby Vanderquack/Mystery Enthusiast",
+        "quantity": 4
+      },
+      {
+        "card": "You're Welcome",
+        "quantity": 4
+      },
+      {
+        "card": "Aurora/Dreaming Guardian",
+        "quantity": 2
+      },
+      {
+        "card": "Cinderella/Dreams Come True",
+        "quantity": 2
+      },
+      {
+        "card": "Donald Duck/Perfect Gentleman",
+        "quantity": 2
+      },
+      {
+        "card": "Hades/Infernal Schemer",
+        "quantity": 2
+      },
+      {
+        "card": "Under The Sea",
+        "quantity": 2
+      },
+      {
+        "card": "Bend To My Will",
+        "quantity": 1
+      },
+      {
+        "card": "One Jump Ahead",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/9325e27f-0cc2-4e30-a900-b3b1013c9691",
+    "record": "1-0-4",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Cinderella - Dream Come True",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Clumsy Guest",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Light on Her Hooves",
+        "quantity": 4
+      },
+      {
+        "card": "Develop Your Brain",
+        "quantity": 4
+      },
+      {
+        "card": "Donald Duck - Perfect Gentleman",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "Malicious, Mean, and Scary",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Royal Explorer",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Vanquisher of Foes",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Vision of the Future",
+        "quantity": 4
+      },
+      {
+        "card": "You're Welcome",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Contented Wallflower",
+        "quantity": 3
+      },
+      {
+        "card": "John Silver - Alien Pirate",
+        "quantity": 3
+      },
+      {
+        "card": "Spooky Sight",
+        "quantity": 2
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/656fe303-b3cc-4875-995e-b3b200e26409",
+    "record": "2-3-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Cinderella - Dream Come True",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Clumsy Guest",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Light on Her Hooves",
+        "quantity": 4
+      },
+      {
+        "card": "Donald Duck - Perfect Gentleman",
+        "quantity": 4
+      },
+      {
+        "card": "John Silver - Alien Pirate",
+        "quantity": 4
+      },
+      {
+        "card": "Malicious, Mean, and Scary",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Royal Explorer",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Vanquisher of Foes",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Vision of the Future",
+        "quantity": 4
+      },
+      {
+        "card": "You're Welcome",
+        "quantity": 4
+      },
+      {
+        "card": "Basil - Undercover Detective",
+        "quantity": 3
+      },
+      {
+        "card": "Develop Your Brain",
+        "quantity": 3
+      },
+      {
+        "card": "Improvise",
+        "quantity": 3
+      },
+      {
+        "card": "Mother Knows Best",
+        "quantity": 2
+      },
+      {
+        "card": "Bend To My Will",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/64411fe5-8f9e-4a39-8469-b3b200fba245",
+    "record": "3-3-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Basil - Practiced Detective",
+        "quantity": 4
+      },
+      {
+        "card": "Chicha - Dedicated Mother",
+        "quantity": 4
+      },
+      {
+        "card": "Donald Duck - Focused Flatfoot",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "Judy Hopps - Lead Detective\"",
+        "quantity": 4
+      },
+      {
+        "card": "Judy Hopps - Uncovering Clues",
+        "quantity": 4
+      },
+      {
+        "card": "Ludwig Von Drake - All-Around Expert",
+        "quantity": 4
+      },
+      {
+        "card": "Mickey Mouse - Detective",
+        "quantity": 4
+      },
+      {
+        "card": "Nick Wilde - Soggy Fox",
+        "quantity": 4
+      },
+      {
+        "card": "Stitch - Carefree Surfer",
+        "quantity": 4
+      },
+      {
+        "card": "The Horseman Strikes!",
+        "quantity": 4
+      },
+      {
+        "card": "World's Greatest Criminal Mind",
+        "quantity": 4
+      },
+      {
+        "card": "Daisy Duck - Ghost Finder",
+        "quantity": 3
+      },
+      {
+        "card": "Genie - Investigative Mind",
+        "quantity": 2
+      },
+      {
+        "card": "Judy Hopps - On the Case",
+        "quantity": 2
+      },
+      {
+        "card": "Minnie Mouse - Sweetheart Princess",
+        "quantity": 2
+      },
+      {
+        "card": "Sudden Scare",
+        "quantity": 2
+      },
+      {
+        "card": "Look at This Family",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/5ba3d51b-6026-4b2c-9fdf-b3b1002170a2",
+    "record": "2-3-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Flynn Rider - Spectral Scoundrel",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Pull the Lever!",
+        "quantity": 4
+      },
+      {
+        "card": "Webby Vanderquack - Junior Prospector",
+        "quantity": 4
+      },
+      {
+        "card": "Webby Vanderquack - Mystery Enthusiast",
+        "quantity": 4
+      },
+      {
+        "card": "Wrong Lever!",
+        "quantity": 4
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 3
+      },
+      {
+        "card": "Enigmatic Inkcaster",
+        "quantity": 3
+      },
+      {
+        "card": "Go Go Tomago - Darting Dynamo",
+        "quantity": 3
+      },
+      {
+        "card": "Improvise",
+        "quantity": 3
+      },
+      {
+        "card": "Megara - Secret Keeper",
+        "quantity": 3
+      },
+      {
+        "card": "Ursula - Deceiver",
+        "quantity": 3
+      },
+      {
+        "card": "Banzai - Gluttonous Predator",
+        "quantity": 2
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 2
+      },
+      {
+        "card": "Iago - Giant Spectral Parrot",
+        "quantity": 2
+      },
+      {
+        "card": "Ursula - Whisper of Vanessa",
+        "quantity": 2
+      },
+      {
+        "card": "Bambi - Little Prince",
+        "quantity": 1
+      },
+      {
+        "card": "Diablo - Obedient Raven",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/3842a20f-7c75-4859-977c-b3b200d2b924",
+    "record": "0-4-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Bobby Zimuruski - Spray Cheese Kid",
+        "quantity": 4
+      },
+      {
+        "card": "Circle of Life",
+        "quantity": 4
+      },
+      {
+        "card": "Malicious, Mean, and Scary",
+        "quantity": 4
+      },
+      {
+        "card": "Scrooge McDuck - S.H.U.S.H. Agent",
+        "quantity": 4
+      },
+      {
+        "card": "Ursula - Vanessa",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Light on Her Hooves",
+        "quantity": 3
+      },
+      {
+        "card": "Emily Quackfaster - Level-Headed Librarian",
+        "quantity": 3
+      },
+      {
+        "card": "Flynn Rider - Spectral Scoundrel",
+        "quantity": 3
+      },
+      {
+        "card": "Goofy - Emerald Champion",
+        "quantity": 3
+      },
+      {
+        "card": "Little John - Impermanent Outlaw",
+        "quantity": 3
+      },
+      {
+        "card": "Prince Phillip - Royal Explorer",
+        "quantity": 3
+      },
+      {
+        "card": "Robin Hood - Sneaky Sleuth",
+        "quantity": 3
+      },
+      {
+        "card": "Scrooge McDuck - Cavern Prospector",
+        "quantity": 3
+      },
+      {
+        "card": "Simba - King in the Making",
+        "quantity": 3
+      },
+      {
+        "card": "Tinker Bell - Most Helpful",
+        "quantity": 3
+      },
+      {
+        "card": "Tramp - Street-Smart Dog",
+        "quantity": 3
+      },
+      {
+        "card": "Prince Phillip - Vanquisher of Foes",
+        "quantity": 2
+      },
+      {
+        "card": "Recovered Page",
+        "quantity": 2
+      },
+      {
+        "card": "You're Welcome",
+        "quantity": 2
+      },
+      {
+        "card": "Bend To My Will",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/36a726af-0aee-44ef-b7e6-b3b2003ea138",
+    "record": "2-2-1",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Basil - Practiced Detective",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "Iago - Giant Spectral Parrot",
+        "quantity": 4
+      },
+      {
+        "card": "Into the Unknown",
+        "quantity": 4
+      },
+      {
+        "card": "Junior Woodchuck Guidebook",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 3
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 3
+      },
+      {
+        "card": "Rafiki - Mystical Fighter",
+        "quantity": 3
+      },
+      {
+        "card": "Belle - Accomplished Mystic",
+        "quantity": 2
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 2
+      },
+      {
+        "card": "Madam Mim - Elephant",
+        "quantity": 2
+      },
+      {
+        "card": "Magical Maneuvers",
+        "quantity": 2
+      },
+      {
+        "card": "Monstro - Infamous Whale",
+        "quantity": 2
+      },
+      {
+        "card": "Spooky Sight",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/32be25c1-3205-44ba-8cc4-b3b200d7795c",
+    "record": "3-2-1",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Bobby Zimuruski - Spray Cheese Kid",
+        "quantity": 4
+      },
+      {
+        "card": "Captain Hook - Forceful Duelist",
+        "quantity": 4
+      },
+      {
+        "card": "Castle Wyvern - Above the Clouds",
+        "quantity": 4
+      },
+      {
+        "card": "Cursed Merfolk - Ursula's Handiwork",
+        "quantity": 4
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 4
+      },
+      {
+        "card": "Go Go Tomago - Darting Dynamo",
+        "quantity": 4
+      },
+      {
+        "card": "Goofy - Set for Adventure",
+        "quantity": 4
+      },
+      {
+        "card": "Happy - Lively Knight",
+        "quantity": 4
+      },
+      {
+        "card": "Hidden Cove - Tranquil Haven",
+        "quantity": 4
+      },
+      {
+        "card": "Mulan - Disguised Soldier",
+        "quantity": 4
+      },
+      {
+        "card": "Seven Dwarfs' Mine - Secure Fortress",
+        "quantity": 4
+      },
+      {
+        "card": "Ursula - Deceiver",
+        "quantity": 4
+      },
+      {
+        "card": "Zootopia - Police Headquarters",
+        "quantity": 4
+      },
+      {
+        "card": "John Silver - Greedy Treasure Seeker",
+        "quantity": 3
+      },
+      {
+        "card": "Calhoun - Marine Sergeant",
+        "quantity": 2
+      },
+      {
+        "card": "Illuminary Tunnels - Linked Caverns",
+        "quantity": 2
+      },
+      {
+        "card": "Nala - Undaunted Lioness",
+        "quantity": 2
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/2f79c93a-0684-409f-82b9-b3b200e80d49",
+    "record": "2-3-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Captain Hook - Forceful Duelist",
+        "quantity": 4
+      },
+      {
+        "card": "Diablo - Obedient Raven",
+        "quantity": 4
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Giant Cobra - Ghostly Serpent",
+        "quantity": 4
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 4
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 4
+      },
+      {
+        "card": "Pete - Games Referee",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Calhoun - Marine Sergeant",
+        "quantity": 3
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 3
+      },
+      {
+        "card": "Mr. Smee - Steadfast Mate",
+        "quantity": 3
+      },
+      {
+        "card": "Palace Guard - Spectral Sentry",
+        "quantity": 3
+      },
+      {
+        "card": "The White Rose - Jewel of the Garden",
+        "quantity": 3
+      },
+      {
+        "card": "Tinker Bell - Giant Fairy",
+        "quantity": 3
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 2
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 2
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 2
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/275d128c-636f-408f-9e9e-b3b200e55074",
+    "record": "1-2-1",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Develop Your Brain",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "Into the Unknown",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Basil - Practiced Detective",
+        "quantity": 3
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 3
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 3
+      },
+      {
+        "card": "Rafiki - Mystical Fighter",
+        "quantity": 3
+      },
+      {
+        "card": "Belle - Accomplished Mystic",
+        "quantity": 2
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 2
+      },
+      {
+        "card": "Iago - Giant Spectral Parrot",
+        "quantity": 2
+      },
+      {
+        "card": "Magical Maneuvers",
+        "quantity": 2
+      },
+      {
+        "card": "Monstro - Infamous Whale",
+        "quantity": 2
+      },
+      {
+        "card": "Olaf - Helping Hand",
+        "quantity": 2
+      },
+      {
+        "card": "Second Star to the Right",
+        "quantity": 2
+      },
+      {
+        "card": "Ursula - Whisper of Vanessa",
+        "quantity": 2
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/20936883-5e6e-4f6e-8cfd-b3b200c3cf91",
+    "record": "5-2-1",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Cinderella - Dream Come True",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Clumsy Guest",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Light on Her Hooves",
+        "quantity": 4
+      },
+      {
+        "card": "Donald Duck - Perfect Gentleman",
+        "quantity": 4
+      },
+      {
+        "card": "Malicious, Mean, and Scary",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Vanquisher of Foes",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Vision of the Future",
+        "quantity": 4
+      },
+      {
+        "card": "You're Welcome",
+        "quantity": 4
+      },
+      {
+        "card": "Basil - Undercover Detective",
+        "quantity": 3
+      },
+      {
+        "card": "John Silver - Alien Pirate",
+        "quantity": 3
+      },
+      {
+        "card": "Prince Phillip - Royal Explorer",
+        "quantity": 3
+      },
+      {
+        "card": "Develop Your Brain",
+        "quantity": 2
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 2
+      },
+      {
+        "card": "Max Goof - Chart Topper",
+        "quantity": 2
+      },
+      {
+        "card": "Mother Knows Best",
+        "quantity": 2
+      },
+      {
+        "card": "Under The Sea",
+        "quantity": 2
+      },
+      {
+        "card": "Bend To My Will",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/19ede90f-018f-4a9f-91f4-b3b200f414c6",
+    "record": "2-2-1",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Basil - Undercover Detective",
+        "quantity": 4
+      },
+      {
+        "card": "Cinderella - Dream Come True",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Clumsy Guest",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Light on Her Hooves",
+        "quantity": 4
+      },
+      {
+        "card": "Develop Your Brain",
+        "quantity": 4
+      },
+      {
+        "card": "Donald Duck - Perfect Gentleman",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "John Silver - Alien Pirate",
+        "quantity": 4
+      },
+      {
+        "card": "Malicious, Mean, and Scary",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Vanquisher of Foes",
+        "quantity": 4
+      },
+      {
+        "card": "Sail The Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Vision of the Future",
+        "quantity": 4
+      },
+      {
+        "card": "You're Welcome",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Royal Explorer",
+        "quantity": 2
+      },
+      {
+        "card": "Under The Sea",
+        "quantity": 2
+      },
+      {
+        "card": "Bend To My Will",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/19dca051-99c6-403e-aaa5-b3b200d9a77b",
+    "record": "2-3-0",
+    "date": "2025-12-13",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Calhoun - Marine Sergeant",
+        "quantity": 4
+      },
+      {
+        "card": "Captain Hook - Forceful Duelist",
+        "quantity": 4
+      },
+      {
+        "card": "Diablo - Obedient Raven",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Satisfied Dragon",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Giant Cobra - Ghostly Serpent",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "The White Rose - Jewel of the Garden",
+        "quantity": 4
+      },
+      {
+        "card": "Black Heron - Real Bad Egg",
+        "quantity": 3
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 3
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 3
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 3
+      },
+      {
+        "card": "Hypnotic Strength",
+        "quantity": 3
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 3
+      },
+      {
+        "card": "Palace Guard - Spectral Sentry",
+        "quantity": 2
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/eb7b33de-ec93-42c2-ae1c-b3aa0124cfd2",
+    "record": "2-3-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Balthazar Picsou / Amateur d'antiquités",
+        "quantity": 4
+      },
+      {
+        "card": "Chat du Cheshire / Inexplicable",
+        "quantity": 4
+      },
+      {
+        "card": "Démona / Fléau du Clan de Wyvern",
+        "quantity": 4
+      },
+      {
+        "card": "Develop Your Brain",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa / Le cinquième esprit",
+        "quantity": 4
+      },
+      {
+        "card": "Garde du palais / Sentinelle spectrale",
+        "quantity": 4
+      },
+      {
+        "card": "Génie / Vœu exaucé",
+        "quantity": 4
+      },
+      {
+        "card": "Hadès / Cherchant un accord",
+        "quantity": 4
+      },
+      {
+        "card": "Hadès / Conspirateur infernal",
+        "quantity": 4
+      },
+      {
+        "card": "Rafiki / Combattant mystique",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo / Fils en croissance",
+        "quantity": 4
+      },
+      {
+        "card": "Sail the Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Belle / Mystique accomplie",
+        "quantity": 2
+      },
+      {
+        "card": "Into the Unknown",
+        "quantity": 2
+      },
+      {
+        "card": "Démona / Traîtresse du clan",
+        "quantity": 2
+      },
+      {
+        "card": "Eurêka / Tête de linotte",
+        "quantity": 2
+      },
+      {
+        "card": "Junior Woodchuck Guidebook",
+        "quantity": 2
+      },
+      {
+        "card": "Spooky Sight",
+        "quantity": 1
+      },
+      {
+        "card": "Elsa / Esprit de l'hiver",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/e67f78ce-ca48-4c79-a750-b3aa01288e51",
+    "record": "2-2-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Black Heron - Real Bad Egg",
+        "quantity": 4
+      },
+      {
+        "card": "Cursed Merfolk - Ursula's Handiwork",
+        "quantity": 4
+      },
+      {
+        "card": "Donald Duck - Perfect Gentleman",
+        "quantity": 4
+      },
+      {
+        "card": "Emily Quackfaster - Level-Headed Librarian",
+        "quantity": 4
+      },
+      {
+        "card": "Flynn Rider - Spectral Scoundrel",
+        "quantity": 4
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 4
+      },
+      {
+        "card": "Pete - Games Referee",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "The Headless Horseman - Relentless Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 3
+      },
+      {
+        "card": "Emerald Chromicon",
+        "quantity": 3
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 3
+      },
+      {
+        "card": "Prince Phillip - Royal Explorer",
+        "quantity": 3
+      },
+      {
+        "card": "Blessed Bagpipes",
+        "quantity": 2
+      },
+      {
+        "card": "Bobby Zimuruski - Spray Cheese Kid",
+        "quantity": 2
+      },
+      {
+        "card": "Heihei - Bumbling Rooster",
+        "quantity": 2
+      },
+      {
+        "card": "Robin Hood - Champion of Sherwood",
+        "quantity": 2
+      },
+      {
+        "card": "Calhoun - Marine Sergeant",
+        "quantity": 1
+      },
+      {
+        "card": "Go Go Tomago - Darting Dynamo",
+        "quantity": 1
+      },
+      {
+        "card": "Jock - Attentive Uncle",
+        "quantity": 1
+      },
+      {
+        "card": "Prince Phillip - Vanquisher of Foes",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/d96c7c84-f10d-4ee8-bda8-b3aa01564117",
+    "record": "3-2-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Belle - Accomplished Mystic",
+        "quantity": 4
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 4
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 4
+      },
+      {
+        "card": "Diablo - Watchful Raven",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Palace Guard - Spectral Sentry",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Lumiere - Fiery Friend",
+        "quantity": 4
+      },
+      {
+        "card": "Sisu - Emboldened Warrior",
+        "quantity": 4
+      },
+      {
+        "card": "Demona - Betrayer of the Clan",
+        "quantity": 3
+      },
+      {
+        "card": "Diablo - Obedient Raven",
+        "quantity": 3
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 3
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 3
+      },
+      {
+        "card": "Tinker Bell - Fancy Footwork",
+        "quantity": 3
+      },
+      {
+        "card": "The Headless Horseman - Terror of Sleepy Hollow",
+        "quantity": 3
+      },
+      {
+        "card": "Last-Ditch Effort",
+        "quantity": 2
+      },
+      {
+        "card": "Ghostly Tale",
+        "quantity": 2
+      },
+      {
+        "card": "Begone!",
+        "quantity": 2
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/d3703785-318c-4812-a8e1-b3aa00a18449",
+    "record": "1-2-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Ariel - Ethereal Voice",
+        "quantity": 4
+      },
+      {
+        "card": "Aurora - Holding Court",
+        "quantity": 4
+      },
+      {
+        "card": "The Troubadour - Musical Narrator",
+        "quantity": 4
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 4
+      },
+      {
+        "card": "Circle of Life",
+        "quantity": 4
+      },
+      {
+        "card": "Mickey Mouse - Amber Champion",
+        "quantity": 4
+      },
+      {
+        "card": "Mulan - Disguised Soldier",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Beyond the Horizon",
+        "quantity": 3
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 3
+      },
+      {
+        "card": "Black Heron - Real Bad Egg",
+        "quantity": 3
+      },
+      {
+        "card": "Namaari - Single-Minded Rival",
+        "quantity": 3
+      },
+      {
+        "card": "Rajah - Devoted Protector",
+        "quantity": 3
+      },
+      {
+        "card": "Gazelle - Ballad Singer",
+        "quantity": 2
+      },
+      {
+        "card": "World's Greatest Criminal Mind",
+        "quantity": 2
+      },
+      {
+        "card": "Mowgli - Man Cub",
+        "quantity": 2
+      },
+      {
+        "card": "Look at This Family",
+        "quantity": 2
+      },
+      {
+        "card": "Pluto - Steel Champion",
+        "quantity": 2
+      },
+      {
+        "card": "Stitch - Carefree Surfer",
+        "quantity": 2
+      },
+      {
+        "card": "Mickey Mouse - Giant Mouse",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/ceb35fab-959f-4125-a5d8-b3aa012656ba",
+    "record": "2-2-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 4
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 4
+      },
+      {
+        "card": "Diablo - Watchful Raven",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Palace Guard - Spectral Sentry",
+        "quantity": 4
+      },
+      {
+        "card": "Aladdin - Barreling Through",
+        "quantity": 3
+      },
+      {
+        "card": "Olaf - Helping Hand",
+        "quantity": 3
+      },
+      {
+        "card": "Sisu - Emboldened Warrior",
+        "quantity": 3
+      },
+      {
+        "card": "Diablo - Obedient Raven",
+        "quantity": 2
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 2
+      },
+      {
+        "card": "Hercules - Mighty Leader",
+        "quantity": 2
+      },
+      {
+        "card": "Iago - Giant Spectral Parrot",
+        "quantity": 2
+      },
+      {
+        "card": "Lumiere - Fiery Friend",
+        "quantity": 2
+      },
+      {
+        "card": "Magical Maneuvers",
+        "quantity": 2
+      },
+      {
+        "card": "The Headless Horseman - Terror of Sleepy Hollow",
+        "quantity": 2
+      },
+      {
+        "card": "Tinker Bell - Fancy Footwork",
+        "quantity": 2
+      },
+      {
+        "card": "Ursula - Whisper of Vanessa",
+        "quantity": 2
+      },
+      {
+        "card": "Yzma - Conniving Chemist",
+        "quantity": 2
+      },
+      {
+        "card": "Belle - Accomplished Mystic",
+        "quantity": 1
+      },
+      {
+        "card": "Mother Gothel - Vain Sorceress",
+        "quantity": 1
+      },
+      {
+        "card": "The Library - A Gift for Belle",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/c9ad0e7a-57df-4315-b1e8-b3aa0118c354",
+    "record": "3-2-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 4
+      },
+      {
+        "card": "Diablo - Watchful Raven",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Iago - Giant Spectral Parrot",
+        "quantity": 4
+      },
+      {
+        "card": "Lumiere - Fiery Friend",
+        "quantity": 4
+      },
+      {
+        "card": "Magical Maneuvers",
+        "quantity": 4
+      },
+      {
+        "card": "Palace Guard - Spectral Sentry",
+        "quantity": 4
+      },
+      {
+        "card": "Sisu - Emboldened Warrior",
+        "quantity": 4
+      },
+      {
+        "card": "The Headless Horseman - Terror of Sleepy Hollow",
+        "quantity": 4
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 3
+      },
+      {
+        "card": "Diablo - Obedient Raven",
+        "quantity": 3
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 3
+      },
+      {
+        "card": "The Library - A Gift for Belle",
+        "quantity": 3
+      },
+      {
+        "card": "Olaf - Helping Hand",
+        "quantity": 2
+      },
+      {
+        "card": "Ursula - Whisper of Vanessa",
+        "quantity": 2
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/a3c1459c-9721-47c7-aacc-b3aa012c29e1",
+    "record": "1-4-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Captain Hook - Forceful Duelist",
+        "quantity": 4
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 4
+      },
+      {
+        "card": "Giant Cobra - Ghostly Serpent",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 4
+      },
+      {
+        "card": "Olaf - Helping Hand",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Calhoun - Marine Sergeant",
+        "quantity": 3
+      },
+      {
+        "card": "Black Heron - Real Bad Egg",
+        "quantity": 3
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 3
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 2
+      },
+      {
+        "card": "Diablo - Obedient Raven",
+        "quantity": 2
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 2
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 2
+      },
+      {
+        "card": "Jafar - Royal Vizier",
+        "quantity": 2
+      },
+      {
+        "card": "The White Rose - Jewel of the Garden",
+        "quantity": 2
+      },
+      {
+        "card": "Madam Mim - Tiny Adversary",
+        "quantity": 2
+      },
+      {
+        "card": "Pluto - Steel Champion",
+        "quantity": 2
+      },
+      {
+        "card": "Yzma - Conniving Chemist",
+        "quantity": 2
+      },
+      {
+        "card": "Ursula - Whisper of Vanessa",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/8ead5128-9256-4eb2-bbc7-b3aa00dfcc33",
+    "record": "4-1-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Black Heron - Real Bad Egg",
+        "quantity": 4
+      },
+      {
+        "card": "Captain Hook - Forceful Duelist",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Giant Cobra - Ghostly Serpent",
+        "quantity": 4
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 4
+      },
+      {
+        "card": "Palace Guard - Spectral Sentry",
+        "quantity": 4
+      },
+      {
+        "card": "Pete - Games Referee",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Calhoun - Marine Sergeant",
+        "quantity": 3
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 3
+      },
+      {
+        "card": "Goliath - Clan Leader",
+        "quantity": 3
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 3
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 3
+      },
+      {
+        "card": "Olaf - Helping Hand",
+        "quantity": 2
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 1
+      },
+      {
+        "card": "Magical Maneuvers",
+        "quantity": 1
+      },
+      {
+        "card": "Pluto - Steel Champion",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/8c53d20e-aa3a-4991-a690-b3aa0131879e",
+    "record": "1-3-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Captain Hook - Forceful Duelist",
+        "quantity": 4
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 4
+      },
+      {
+        "card": "Giant Cobra - Ghostly Serpent",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Black Heron - Real Bad Egg",
+        "quantity": 4
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Calhoun - Marine Sergeant",
+        "quantity": 3
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 3
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 3
+      },
+      {
+        "card": "Palace Guard - Spectral Sentry",
+        "quantity": 3
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 3
+      },
+      {
+        "card": "Olaf - Helping Hand",
+        "quantity": 3
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 3
+      },
+      {
+        "card": "Madam Mim - Elephant",
+        "quantity": 2
+      },
+      {
+        "card": "Pluto - Steel Champion",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/8c1a929e-00c2-4768-8b3e-b3aa00e6c0df",
+    "record": "5-0-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Basil - Undercover Detective",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Light on Her Hooves",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Clumsy Guest",
+        "quantity": 4
+      },
+      {
+        "card": "Donald Duck - Perfect Gentleman",
+        "quantity": 4
+      },
+      {
+        "card": "Judy Hopps - Uncovering Clues",
+        "quantity": 4
+      },
+      {
+        "card": "Malicious, Mean, and Scary",
+        "quantity": 4
+      },
+      {
+        "card": "You're Welcome",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Royal Explorer",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Vanquisher of Foes",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Sail the Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Basil - Practiced Detective",
+        "quantity": 3
+      },
+      {
+        "card": "Basil - Disguised Detective",
+        "quantity": 3
+      },
+      {
+        "card": "Vision of the Future",
+        "quantity": 3
+      },
+      {
+        "card": "Donald Duck - Focused Flatfoot",
+        "quantity": 2
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 2
+      },
+      {
+        "card": "Under the Sea",
+        "quantity": 2
+      },
+      {
+        "card": "Bend to My Will",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/838674db-4b45-427e-ae6e-b3aa01297d67",
+    "record": "2-2-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Into the Unknown",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "Iago - Giant Spectral Parrot",
+        "quantity": 4
+      },
+      {
+        "card": "Junior Woodchuck Guidebook",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Sail the Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Basil - Practiced Detective",
+        "quantity": 3
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 3
+      },
+      {
+        "card": "Rafiki - Mystical Fighter",
+        "quantity": 3
+      },
+      {
+        "card": "Belle - Accomplished Mystic",
+        "quantity": 2
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 2
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 2
+      },
+      {
+        "card": "Madam Mim - Elephant",
+        "quantity": 2
+      },
+      {
+        "card": "Tamatoa - Happy as a Clam",
+        "quantity": 2
+      },
+      {
+        "card": "Spooky Sight",
+        "quantity": 1
+      },
+      {
+        "card": "Elsa - Spirit of Winter",
+        "quantity": 1
+      },
+      {
+        "card": "One Jump Ahead",
+        "quantity": 1
+      },
+      {
+        "card": "Magical Maneuvers",
+        "quantity": 1
+      },
+      {
+        "card": "Ursula - Whisper of Vanessa",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/72c646a3-3d0f-40f8-bd27-b3aa011fcdd6",
+    "record": "2-3-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Captain Hook - Forceful Duelist",
+        "quantity": 4
+      },
+      {
+        "card": "Giant Cobra - Ghostly Serpent",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Olaf - Helping Hand",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Calhoun - Marine Sergeant",
+        "quantity": 3
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 3
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 3
+      },
+      {
+        "card": "Black Heron - Real Bad Egg",
+        "quantity": 3
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 3
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 3
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 2
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 2
+      },
+      {
+        "card": "Iago - Giant Spectral Parrot",
+        "quantity": 2
+      },
+      {
+        "card": "Magical Maneuvers",
+        "quantity": 2
+      },
+      {
+        "card": "Pluto - Steel Champion",
+        "quantity": 2
+      },
+      {
+        "card": "Violet Sabrewing - Senior Junior Woodchuck",
+        "quantity": 2
+      },
+      {
+        "card": "Royal Guard - Octopus Soldier",
+        "quantity": 1
+      },
+      {
+        "card": "Tinker Bell - Fast Flier",
+        "quantity": 1
+      },
+      {
+        "card": "The Sword of Hercules",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/6cdec6a6-9839-4378-84a9-b3aa00fc0787",
+    "record": "1-4-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Basil - Undercover Detective",
+        "quantity": 4
+      },
+      {
+        "card": "Cinderella - Dream Come True",
+        "quantity": 4
+      },
+      {
+        "card": "Chicha - Dedicated Mother",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Light on Her Hooves",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Clumsy Guest",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "Kida - Creative Thinker",
+        "quantity": 4
+      },
+      {
+        "card": "Malicious, Mean, and Scary",
+        "quantity": 4
+      },
+      {
+        "card": "You're Welcome",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Royal Explorer",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Vanquisher of Foes",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Vision of the Future",
+        "quantity": 4
+      },
+      {
+        "card": "Sail the Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Aurora - Dreaming Guardian",
+        "quantity": 3
+      },
+      {
+        "card": "One Jump Ahead",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/6b6ce536-d6c2-41e2-a1d9-b3aa00f2cde8",
+    "record": "2-2-1",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Captain Hook - Forceful Duelist",
+        "quantity": 4
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 4
+      },
+      {
+        "card": "Giant Cobra - Ghostly Serpent",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Palace Guard - Spectral Sentry",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 4
+      },
+      {
+        "card": "Black Heron - Real Bad Egg",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 4
+      },
+      {
+        "card": "Calhoun - Marine Sergeant",
+        "quantity": 3
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 3
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 3
+      },
+      {
+        "card": "Olaf - Helping Hand",
+        "quantity": 3
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 2
+      },
+      {
+        "card": "Iago - Giant Spectral Parrot",
+        "quantity": 2
+      },
+      {
+        "card": "Madam Mim - Elephant",
+        "quantity": 2
+      },
+      {
+        "card": "Magical Maneuvers",
+        "quantity": 1
+      },
+      {
+        "card": "Pluto - Steel Champion",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/6a0c4942-d01f-4b8d-9f16-b3aa013f9f34",
+    "record": "3-2-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Giant Cobra - Ghostly Serpent",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 4
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 4
+      },
+      {
+        "card": "Mr. Smee - Steadfast Mate",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Captain Hook - Forceful Duelist",
+        "quantity": 3
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 3
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 3
+      },
+      {
+        "card": "Palace Guard - Spectral Sentry",
+        "quantity": 3
+      },
+      {
+        "card": "Olaf - Helping Hand",
+        "quantity": 3
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 3
+      },
+      {
+        "card": "Calhoun - Marine Sergeant",
+        "quantity": 2
+      },
+      {
+        "card": "Black Heron - Real Bad Egg",
+        "quantity": 2
+      },
+      {
+        "card": "Junior Woodchuck Guidebook",
+        "quantity": 2
+      },
+      {
+        "card": "The Sword of Hercules",
+        "quantity": 2
+      },
+      {
+        "card": "Madam Mim - Elephant",
+        "quantity": 2
+      },
+      {
+        "card": "Pete - Games Referee",
+        "quantity": 2
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/628e9824-37f4-4214-8eed-b3aa01379c95",
+    "record": "3-2-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Aurora - Holding Court",
+        "quantity": 4
+      },
+      {
+        "card": "Daisy Duck - Donald's Date",
+        "quantity": 4
+      },
+      {
+        "card": "Eilonwy - Princess of Llyr",
+        "quantity": 4
+      },
+      {
+        "card": "Lady - Family Dog",
+        "quantity": 4
+      },
+      {
+        "card": "Mickey Mouse - Amber Champion",
+        "quantity": 4
+      },
+      {
+        "card": "Mowgli - Man Cub",
+        "quantity": 4
+      },
+      {
+        "card": "Nala - Undaunted Lioness",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Pluto - Friendly Pooch",
+        "quantity": 4
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 4
+      },
+      {
+        "card": "Rapunzel - Ready for Adventure",
+        "quantity": 4
+      },
+      {
+        "card": "Rajah - Devoted Protector",
+        "quantity": 4
+      },
+      {
+        "card": "Tiana - Restaurant Owner",
+        "quantity": 4
+      },
+      {
+        "card": "Fire the Cannons!",
+        "quantity": 3
+      },
+      {
+        "card": "Pete - Games Referee",
+        "quantity": 3
+      },
+      {
+        "card": "Jim Dear - Beloved Husband",
+        "quantity": 2
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/588e2505-3e92-4fac-b4d6-b3a70063c21a",
+    "record": "3-2-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Bobby Zimuruski - Spray Cheese Kid",
+        "quantity": 4
+      },
+      {
+        "card": "Tramp - Street-Smart Dog",
+        "quantity": 4
+      },
+      {
+        "card": "Tramp - Enterprising Dog",
+        "quantity": 4
+      },
+      {
+        "card": "Lady - Decisive Dog",
+        "quantity": 4
+      },
+      {
+        "card": "Lady - Miss Park Avenue",
+        "quantity": 4
+      },
+      {
+        "card": "Circle of Life",
+        "quantity": 4
+      },
+      {
+        "card": "Della's Moon Lullaby",
+        "quantity": 3
+      },
+      {
+        "card": "Clarabelle - Light on Her Hooves",
+        "quantity": 3
+      },
+      {
+        "card": "Eilonwy - Princess of Llyr",
+        "quantity": 3
+      },
+      {
+        "card": "Lady - Family Dog",
+        "quantity": 3
+      },
+      {
+        "card": "Mowgli - Man Cub",
+        "quantity": 3
+      },
+      {
+        "card": "Rajah - Devoted Protector",
+        "quantity": 3
+      },
+      {
+        "card": "Stitch - Carefree Surfer",
+        "quantity": 3
+      },
+      {
+        "card": "Ursula - Deceiver",
+        "quantity": 3
+      },
+      {
+        "card": "Scrooge McDuck - S.H.U.S.H. Agent",
+        "quantity": 2
+      },
+      {
+        "card": "Tramp - Dapper Rascal",
+        "quantity": 2
+      },
+      {
+        "card": "Lady - Elegant Spaniel",
+        "quantity": 2
+      },
+      {
+        "card": "Lilo - Escape Artist",
+        "quantity": 2
+      },
+      {
+        "card": "Under the Sea",
+        "quantity": 2
+      },
+      {
+        "card": "The Horseman Strikes!",
+        "quantity": 1
+      },
+      {
+        "card": "Mickey Mouse - Amber Champion",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/51ffe4ab-0dc1-4421-ae71-b3aa013d0004",
+    "record": "4-1-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Captain Hook - Forceful Duelist",
+        "quantity": 4
+      },
+      {
+        "card": "Giant Cobra - Ghostly Serpent",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Palace Guard - Spectral Sentry",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 4
+      },
+      {
+        "card": "Black Heron - Real Bad Egg",
+        "quantity": 4
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 4
+      },
+      {
+        "card": "Olaf - Helping Hand",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 4
+      },
+      {
+        "card": "Calhoun - Marine Sergeant",
+        "quantity": 3
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 3
+      },
+      {
+        "card": "Madam Mim - Elephant",
+        "quantity": 3
+      },
+      {
+        "card": "Pete - Games Referee",
+        "quantity": 3
+      },
+      {
+        "card": "Belle - Accomplished Mystic",
+        "quantity": 2
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 2
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/4420b074-228d-4f5f-af98-b3aa0107caea",
+    "record": "3-1-1",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Tinker Bell - Giant Fairy",
+        "quantity": 4
+      },
+      {
+        "card": "Lady - Family Dog",
+        "quantity": 4
+      },
+      {
+        "card": "The Horseman Strikes!",
+        "quantity": 4
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 4
+      },
+      {
+        "card": "Pluto - Friendly Pooch",
+        "quantity": 4
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 4
+      },
+      {
+        "card": "Rhino - Power Hamster",
+        "quantity": 4
+      },
+      {
+        "card": "Rhino - One-Sixteenth Wolf",
+        "quantity": 4
+      },
+      {
+        "card": "Simba - King in the Making",
+        "quantity": 4
+      },
+      {
+        "card": "Vincenzo Santorini - The Explosives Expert",
+        "quantity": 4
+      },
+      {
+        "card": "Bagheera - Guardian Jaguar",
+        "quantity": 3
+      },
+      {
+        "card": "Broadway - Sturdy and Strong",
+        "quantity": 3
+      },
+      {
+        "card": "Lantern",
+        "quantity": 3
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 3
+      },
+      {
+        "card": "Stitch - Carefree Surfer",
+        "quantity": 3
+      },
+      {
+        "card": "Goliath - Clan Leader",
+        "quantity": 2
+      },
+      {
+        "card": "Scar - Finally King",
+        "quantity": 2
+      },
+      {
+        "card": "Pluto - Determined Defender",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/42d3a679-3d26-4e4a-8ddc-b3aa012e21c0",
+    "record": "3-2-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Clarabelle - Light on Her Hooves",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Clumsy Guest",
+        "quantity": 4
+      },
+      {
+        "card": "Donald Duck - Perfect Gentleman",
+        "quantity": 4
+      },
+      {
+        "card": "Malicious, Mean, and Scary",
+        "quantity": 4
+      },
+      {
+        "card": "You're Welcome",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Royal Explorer",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Vanquisher of Foes",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Vision of the Future",
+        "quantity": 4
+      },
+      {
+        "card": "Sail the Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Basil - Undercover Detective",
+        "quantity": 3
+      },
+      {
+        "card": "Clarabelle - Contented Wallflower",
+        "quantity": 3
+      },
+      {
+        "card": "Donald Duck - Focused Flatfoot",
+        "quantity": 3
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 3
+      },
+      {
+        "card": "Develop Your Brain",
+        "quantity": 2
+      },
+      {
+        "card": "Shere Khan - Fearsome Tiger",
+        "quantity": 2
+      },
+      {
+        "card": "Ursula - Deceiver",
+        "quantity": 2
+      },
+      {
+        "card": "One Jump Ahead",
+        "quantity": 1
+      },
+      {
+        "card": "Potion of Malice",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/3e4b255c-a809-44a6-b787-b3aa0134a942",
+    "record": "0-4-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Bobby Zimuruski - Spray Cheese Kid",
+        "quantity": 4
+      },
+      {
+        "card": "Tramp - Street-Smart Dog",
+        "quantity": 4
+      },
+      {
+        "card": "Tramp - Enterprising Dog",
+        "quantity": 4
+      },
+      {
+        "card": "Go Go Tomago - Darting Dynamo",
+        "quantity": 4
+      },
+      {
+        "card": "Lady - Family Dog",
+        "quantity": 4
+      },
+      {
+        "card": "Lady - Decisive Dog",
+        "quantity": 4
+      },
+      {
+        "card": "Lady - Elegant Spaniel",
+        "quantity": 4
+      },
+      {
+        "card": "Lilo - Escape Artist",
+        "quantity": 4
+      },
+      {
+        "card": "Mowgli - Man Cub",
+        "quantity": 4
+      },
+      {
+        "card": "Cursed Merfolk - Ursula's Handiwork",
+        "quantity": 4
+      },
+      {
+        "card": "Pluto - Friendly Pooch",
+        "quantity": 4
+      },
+      {
+        "card": "Emerald Chromicon",
+        "quantity": 3
+      },
+      {
+        "card": "Daisy Duck - Donald's Date",
+        "quantity": 3
+      },
+      {
+        "card": "Finnick - Tiny Terror",
+        "quantity": 3
+      },
+      {
+        "card": "Lady - Miss Park Avenue",
+        "quantity": 3
+      },
+      {
+        "card": "Megara - Pulling the Strings",
+        "quantity": 3
+      },
+      {
+        "card": "Webby Vanderquack - Mystery Enthusiast",
+        "quantity": 3
+      },
+      {
+        "card": "Sebastian - Loyal Crab",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/21c9b28a-3156-4923-acb7-b3aa00cda410",
+    "record": "3-2-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Aurora - Dreaming Guardian",
+        "quantity": 4
+      },
+      {
+        "card": "Cinderella - Dream Come True",
+        "quantity": 4
+      },
+      {
+        "card": "Chicha - Dedicated Mother",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Light on Her Hooves",
+        "quantity": 4
+      },
+      {
+        "card": "Clarabelle - Clumsy Guest",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "Kida - Creative Thinker",
+        "quantity": 4
+      },
+      {
+        "card": "Malicious, Mean, and Scary",
+        "quantity": 4
+      },
+      {
+        "card": "You're Welcome",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Royal Explorer",
+        "quantity": 4
+      },
+      {
+        "card": "Prince Phillip - Vanquisher of Foes",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Vision of the Future",
+        "quantity": 4
+      },
+      {
+        "card": "Sail the Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Basil - Undercover Detective",
+        "quantity": 3
+      },
+      {
+        "card": "One Jump Ahead",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/1658d407-ab82-488a-afa3-b3aa013de79b",
+    "record": "2-3-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Captain Hook - Forceful Duelist",
+        "quantity": 4
+      },
+      {
+        "card": "Dumbo - Ninth Wonder of the Universe",
+        "quantity": 4
+      },
+      {
+        "card": "Elsa - The Fifth Spirit",
+        "quantity": 4
+      },
+      {
+        "card": "Genie - Wish Fulfilled",
+        "quantity": 4
+      },
+      {
+        "card": "Giant Cobra - Ghostly Serpent",
+        "quantity": 4
+      },
+      {
+        "card": "Lexington - Small in Stature",
+        "quantity": 4
+      },
+      {
+        "card": "Strength of a Raging Fire",
+        "quantity": 4
+      },
+      {
+        "card": "Black Heron - Real Bad Egg",
+        "quantity": 3
+      },
+      {
+        "card": "Calhoun - Marine Sergeant",
+        "quantity": 3
+      },
+      {
+        "card": "Cheshire Cat - Inexplicable",
+        "quantity": 3
+      },
+      {
+        "card": "Demona - Betrayer of the Clan",
+        "quantity": 3
+      },
+      {
+        "card": "Demona - Scourge of the Wyvern Clan",
+        "quantity": 3
+      },
+      {
+        "card": "Hades - Looking for a Deal",
+        "quantity": 3
+      },
+      {
+        "card": "Hudson - Determined Reader",
+        "quantity": 3
+      },
+      {
+        "card": "Olaf - Helping Hand",
+        "quantity": 3
+      },
+      {
+        "card": "Doc - Bold Knight",
+        "quantity": 2
+      },
+      {
+        "card": "He Hurled His Thunderbolt",
+        "quantity": 2
+      },
+      {
+        "card": "Palace Guard - Spectral Sentry",
+        "quantity": 2
+      },
+      {
+        "card": "The Sword of Hercules",
+        "quantity": 2
+      }
+    ],
+    "sideboard": []
+  },
+  {
+    "url": "https://melee.gg/Decklist/View/03e7cd3e-da7c-41dc-acf0-b3aa009be508",
+    "record": "1-4-0",
+    "date": "2025-12-05",
+    "game": "LORCANA",
+    "format": "CORE",
+    "maindeck": [
+      {
+        "card": "Develop Your Brain",
+        "quantity": 4
+      },
+      {
+        "card": "Hades - Infernal Schemer",
+        "quantity": 4
+      },
+      {
+        "card": "Kida - Creative Thinker",
+        "quantity": 4
+      },
+      {
+        "card": "Queen of Hearts - Sensing Weakness",
+        "quantity": 4
+      },
+      {
+        "card": "The Headless Horseman - Terror of Sleepy Hollow",
+        "quantity": 4
+      },
+      {
+        "card": "Maleficent - Monstrous Dragon",
+        "quantity": 4
+      },
+      {
+        "card": "Sisu - Daring Visitor",
+        "quantity": 4
+      },
+      {
+        "card": "Sapphire Coil",
+        "quantity": 4
+      },
+      {
+        "card": "Tipo - Growing Son",
+        "quantity": 4
+      },
+      {
+        "card": "Vision of the Future",
+        "quantity": 4
+      },
+      {
+        "card": "Sail the Azurite Sea",
+        "quantity": 4
+      },
+      {
+        "card": "Inkrunner",
+        "quantity": 3
+      },
+      {
+        "card": "Maui - Half-Shark",
+        "quantity": 3
+      },
+      {
+        "card": "Medallion Weights",
+        "quantity": 3
+      },
+      {
+        "card": "Might Solve a Mystery",
+        "quantity": 2
+      },
+      {
+        "card": "Sudden Scare",
+        "quantity": 2
+      },
+      {
+        "card": "A Pirate's Life",
+        "quantity": 2
+      },
+      {
+        "card": "Mushu's Rocket",
+        "quantity": 1
+      },
+      {
+        "card": "One Jump Ahead",
+        "quantity": 1
+      }
+    ],
+    "sideboard": []
+  }
+]
